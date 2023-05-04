@@ -1,5 +1,5 @@
 # Customer Classifier using Annual Income and Spending Score with Hierarchical and K-Means Clustering
-Welcome to our Customer Classifier project! This project leverages the power of machine learning to classify customers based on their annual income and spending score using hierarchical and K-means clustering.
+Welcome to my Customer Classifier project! This project leverages the power of machine learning to classify customers based on their annual income and spending score using hierarchical and K-means clustering.
 
 ## Table of Contents
 [Introduction](#introduction) <br>
